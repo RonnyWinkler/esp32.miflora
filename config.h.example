@@ -24,8 +24,8 @@ const char*   WIFI_PASSWORD   = "password";
 
 const char*   MQTT_HOST       = "10.10.10.1";
 const int     MQTT_PORT       = 1883;
-const char*   MQTT_CLIENTID   = "miflora-client";
+const char*   MQTT_CLIENTID   = "miflora";
 const char*   MQTT_USERNAME   = "username";
 const char*   MQTT_PASSWORD   = "password";
-const String  MQTT_BASE_TOPIC = "flora"; 
+const String  MQTT_BASE_TOPIC = "miflora"; 
 const int     MQTT_RETRY_WAIT = 5000;
