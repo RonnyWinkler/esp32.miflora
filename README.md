@@ -7,12 +7,12 @@ Sidddy made a nice manual, too :-)
 A manual (german) for ESP configuration and installing the code into the ESP you can find here:
 http://chrigi.me/wordpress/mi-flora-gateway/
 
-Additions to original version:
+# Additions to original version:
 - Connect/Disconnect to Wifi/MQTT
 - Reconnect MQTT for every sensor to prevent timeouts
 - using retained topics (last value keeps stored in MQTT broker)
 
-Short description:
+# Short description:
 With his app, you can read the data from your MiFlora sensors via Bluetooth and send it via Wifi to your MQTT Broker.
 Follow these steps:
 - Install Arduino IDE
